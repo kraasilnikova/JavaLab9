@@ -8,6 +8,7 @@ import bsu.rfe.group9.Krasilnikova.entity.AdList;
 import bsu.rfe.group9.Krasilnikova.entity.UserList;
 import bsu.rfe.group9.Krasilnikova.helper.AdListHelper;
 import bsu.rfe.group9.Krasilnikova.UserListHelper;
+
 // Сервлет загружается автоматически при запуске приложения
 public class StartupServlet extends HttpServlet {
     private static final long serialVersionUID = 1L;
